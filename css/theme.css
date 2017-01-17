@@ -53,6 +53,9 @@
     margin: 0 auto;
     text-align: center;
     padding: 25px; }
+    @media (max-width: 500px) {
+      .loading-wrapper .pwd-wrapper {
+        width: 300px; } }
   .loading-wrapper .input-field {
     width: 80%;
     margin: 0 auto;
@@ -70,6 +73,9 @@
   width: 90%;
   padding-top: 10vh;
   padding-bottom: 10vh; }
+  @media (max-width: 500px) {
+    .container {
+      padding-left: 25px; } }
 
 .cube {
   position: relative;

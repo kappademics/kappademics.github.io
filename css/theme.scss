@@ -62,6 +62,9 @@
 		margin: 0 auto;
 		text-align: center;
 		padding: 25px;
+		@media (max-width: 500px) {
+	    width: 300px;
+	  }
 	}
 	.input-field {
 		width: 80%;
@@ -84,6 +87,9 @@
 	width: 90%;
 	padding-top: 10vh;
 	padding-bottom: 10vh;
+		@media (max-width: 500px) {
+	    padding-left: 25px;
+	  }
 }
 
 .cube {
