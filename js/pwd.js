@@ -4,4 +4,7 @@
     if (bitwise == 18868) {
     	$('.loading-wrapper').hide();
     }
+    else {
+    	$('#wrong-pass').css('display', 'block');
+    }
 	});
