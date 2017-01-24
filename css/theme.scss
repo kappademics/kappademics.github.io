@@ -45,6 +45,14 @@
   box-shadow: 0 1px 0 0 #000;
 }
 
+
+#wrong-pass {
+	color: red;
+	font-family: 'PT Sans', sans-serif;
+	font-size: 0.5em;
+	display: none;
+}
+
 //css
 .loading-wrapper {
 	background: blue;

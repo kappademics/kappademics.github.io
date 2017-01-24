@@ -37,6 +37,12 @@
   border-bottom: 1px solid #000;
   box-shadow: 0 1px 0 0 #000; }
 
+#wrong-pass {
+  color: red;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 0.5em;
+  display: none; }
+
 .loading-wrapper {
   background: blue;
   position: fixed;
